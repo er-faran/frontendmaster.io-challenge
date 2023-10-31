@@ -4,7 +4,7 @@ Welcome to my UI Development Playground repository! This is where I showcase my 
 
 ## QR Code Component
 
-![QR Code Component Demo](https://er-faran.github.io/frontendmaster.io-challenge/QR-CODE-COMPONENT/)
+[QR Code Component Demo](https://er-faran.github.io/frontendmaster.io-challenge/QR-CODE-COMPONENT/)
 
 ### Introduction
 
