@@ -15,11 +15,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-I have completed the QR code component using HTML, CSS.
+👨‍💻 I'm excited to share my latest project - a QR Code Component I built from scratch using HTML and CSS. This project challenged me to enhance my UI development skills, and I'm thrilled with the result. You can check it out it's live on GitHub Pages [Here](https://er-faran.github.io/frontendmaster.io-challenge/QR-CODE-COMPONENT/).
 
 ### Screenshot
 
@@ -27,14 +25,11 @@ I have completed the QR code component using HTML, CSS.
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
-
-I will add ASAP
+- Solution URL: [Code]([https://your-solution-url.com](https://github.com/er-faran/frontendmaster.io-challenge/tree/main/QR-CODE-COMPONENT))
+- Live Site URL: [Here](https://er-faran.github.io/frontendmaster.io-challenge/QR-CODE-COMPONENT/)
 
 ## My process
 
-I will add ASAP
 
 ### Built with
 
@@ -45,27 +40,31 @@ I will add ASAP
 
 ### What I learned
 
-I will add ASAP
+- Deeper understanding of HTML and CSS
+- Responsive design principles
+- Deployment with GitHub Pages
+
 
 ### Continued development
 
-I will add ASAP
+- Ensuring responsiveness for a wide range of devices and screen sizes.
+- Fine-tuning the CSS for the desired visual design.
+- Overcoming these challenges involved online research, trial and error, and problem-solving.
 
-<!-- Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect. -->
 
 ### Useful resources
 
-I will add ASAP
+- The project is deployed on GitHub Pages for easy access.
+- You can explore it with below useful links
+ - Solution URL: [Code]([https://your-solution-url.com](https://github.com/er-faran/frontendmaster.io-challenge/tree/main/QR-CODE-COMPONENT))
+ - Live Site URL: [Here](https://er-faran.github.io/frontendmaster.io-challenge/QR-CODE-COMPONENT/)
+
 
 ## Author
 
-I will modify
-
-- Website - [Mohammed Faran](https://google.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohammed-faran/)
+- GitHub: [My GitHub Profile](https://github.com/er-faran/)
+- Frontend Mentor - [My Frontent Mentor Profile](https://www.frontendmentor.io/profile/er-faran)
 
 ## Acknowledgments
-
-<!-- This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.** -->
+- Special thanks to [frontendmentor.io] for giving challenge.
