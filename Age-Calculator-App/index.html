@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Age calculator app | Mohammed Faran</title>
+  </head>
+  <body>
+    <main>
+      <div class="card-wrapper">
+        <div class="input-container">
+          <div class="each-input-field-container">
+            <label class="input-label" for="day">DAY</label>
+            <input
+              class="input-field"
+              type="text"
+              placeholder="DD"
+              name="day"
+              id="day"
+            />
+            <span class="error-message" id="day-error"></span>
+          </div>
+          <div class="each-input-field-container">
+            <label class="input-label" for="month">MONTH</label>
+            <input
+              class="input-field"
+              type="text"
+              placeholder="MM"
+              name="month"
+              id="month"
+            />
+            <span class="error-message" id="month-error"></span>
+          </div>
+          <div class="each-input-field-container">
+            <label class="input-label" for="year">YEAR</label>
+            <input
+              class="input-field"
+              type="text"
+              placeholder="YYYY"
+              name="year"
+              id="year"
+            />
+            <span class="error-message" id="year-error"></span>
+          </div>
+        </div>
+        <div class="saperator">
+          <div class="border"></div>
+          <button
+            id="age-calculate-btn"
+            class="calculate-button"
+            onclick="claculateAgeHandler(this)"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="46"
+              height="44"
+              viewBox="0 0 46 44"
+              class="svg-arrow-icon"
+            >
+              <g fill="none" stroke="#FFF" stroke-width="2">
+                <path
+                  d="M1 22.019C8.333 21.686 23 25.616 23 44M23 44V0M45 22.019C37.667 21.686 23 25.616 23 44"
+                />
+              </g>
+            </svg>
+          </button>
+        </div>
+        <div class="details-main-wrapper">
+          <div class="age-details-wrapper">
+            <div class="value" id="years-value">- -</div>
+            <div class="label">&nbsp;years</div>
+          </div>
+          <div class="age-details-wrapper">
+            <div class="value" id="months-value">- -</div>
+            <div class="label">&nbsp;months</div>
+          </div>
+          <div class="age-details-wrapper">
+            <div class="value" id="days-value">- -</div>
+            <div class="label">&nbsp;days</div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="scrypt.js"></script>
+  </body>
+</html>

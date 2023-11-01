@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Age calculator app solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,16 +17,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-👨‍💻 I'm excited to share my latest project - a QR Code Component I built from scratch using HTML and CSS. This project challenged me to enhance my UI development skills, and I'm thrilled with the result. You can check it out it's live on GitHub Pages [Here](https://er-faran.github.io/frontendmentor.io-challenge/QR-CODE-COMPONENT/).
+👨‍💻 I'm excited to share my latest project - a Age Calculator app I built from scratch using HTML, CSS and JavaScript. This project challenged me to enhance my UI development skills, and I'm thrilled with the result. You can check it out it's live on GitHub Pages [Here](https://er-faran.github.io/frontendmentor.io-challenge/Age-Calculator-App/).
 
 ### Screenshot
 
-![](./images/My-Work.png)
+![](./assets/images/MyWork.png)
 
 ### Links
 
-- Solution URL: [Code](https://github.com/er-faran/frontendmentor.io-challenge/tree/main/QR-CODE-COMPONENT)
-- Live Site URL: [Here](https://er-faran.github.io/frontendmentor.io-challenge/QR-CODE-COMPONENT/)
+- Solution URL: [Code](https://github.com/er-faran/frontendmentor.io-challenge/tree/main/Age-Calculator-App)
+- Live Site URL: [Here](https://er-faran.github.io/frontendmentor.io-challenge/Age-Calculator-App/)
 
 ## My process
 
@@ -35,11 +35,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Working with JavaScript
+- Working for Dates
+- Working for Validation
 - Mobile-first workflow
 
 ### What I learned
 
-- Deeper understanding of HTML and CSS
+- Deeper understanding of HTML, CSS and JavaSccript
+- Working for input validation
 - Responsive design principles
 - Deployment with GitHub Pages
 
@@ -53,8 +57,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - The project is deployed on GitHub Pages for easy access.
 - You can explore it with below useful links
-- Solution URL: [Code](https://github.com/er-faran/frontendmentor.io-challenge/tree/main/QR-CODE-COMPONENT)
-- Live Site URL: [Here](https://er-faran.github.io/frontendmentor.io-challenge/QR-CODE-COMPONENT/)
+- Solution URL: [Code](https://github.com/er-faran/frontendmentor.io-challenge/tree/main/Age-Calculator-App)
+- Live Site URL: [Here](https://er-faran.github.io/frontendmentor.io-challenge/Age-Calculator-App/)
 
 ## Author
 
