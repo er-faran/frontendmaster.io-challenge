@@ -15,15 +15,33 @@ const calculateBtnEle = document.getElementById("age-calculate-btn");
 let day, month, year;
 
 dayEle.addEventListener("change", (e) => {
-  day = Number(e.target.value);
+  if (/^\d+$/.test(e.target.value)) {
+    day = Number(e.target.value);
+    dayEle.value = Number(e.target.value);
+  } else {
+    day = "";
+    dayEle.value = "";
+  }
 });
 
 monthEle.addEventListener("change", (e) => {
-  month = Number(e.target.value);
+  if (/^\d+$/.test(e.target.value)) {
+    month = Number(e.target.value);
+    monthEle.value = Number(e.target.value);
+  } else {
+    month = "";
+    monthEle.value = "";
+  }
 });
 
 yearEle.addEventListener("change", (e) => {
-  year = Number(e.target.value);
+  if (/^\d+$/.test(e.target.value)) {
+    year = Number(e.target.value);
+    yearEle.value = Number(e.target.value);
+  } else {
+    year = "";
+    yearEle.value = "";
+  }
 });
 
 function validateDay() {

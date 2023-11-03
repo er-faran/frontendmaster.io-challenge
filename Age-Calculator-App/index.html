@@ -27,6 +27,7 @@
               placeholder="DD"
               name="day"
               id="day"
+              maxlength="2"
             />
             <span class="error-message" id="day-error"></span>
           </div>
@@ -38,6 +39,7 @@
               placeholder="MM"
               name="month"
               id="month"
+              maxlength="2"
             />
             <span class="error-message" id="month-error"></span>
           </div>
@@ -49,13 +51,14 @@
               placeholder="YYYY"
               name="year"
               id="year"
+              maxlength="4"
             />
             <span class="error-message" id="year-error"></span>
           </div>
         </div>
         <div class="saperator">
           <div class="border"></div>
-          <button
+          <div
             id="age-calculate-btn"
             class="calculate-button"
             onclick="claculateAgeHandler(this)"
@@ -73,7 +76,7 @@
                 />
               </g>
             </svg>
-          </button>
+          </div>
         </div>
         <div class="details-main-wrapper">
           <div class="age-details-wrapper">
